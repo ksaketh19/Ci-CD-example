@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1591092614553" clover="3.2.0">
+  <project timestamp="1591092614553" name="All files">
+    <metrics statements="28" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="34" coveredelements="30" complexity="0" loc="28" ncloc="28" packages="2" files="4" classes="4"/>
+    <package name="cli.yargs.countEntriesInDirectory.lib">
+      <metrics statements="14" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="countEntries.js" path="/home/zadmin/Documents/workspace/Ci-CD-example/cli/yargs/countEntriesInDirectory/lib/countEntries.js">
+        <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+      <file name="log.js" path="/home/zadmin/Documents/workspace/Ci-CD-example/cli/yargs/countEntriesInDirectory/lib/log.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utilities.cli.yargs.countEntriesInDirectory.lib">
+      <metrics statements="14" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="countEntries.js" path="/home/zadmin/Documents/workspace/Ci-CD-example/utilities/cli/yargs/countEntriesInDirectory/lib/countEntries.js">
+        <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+      <file name="log.js" path="/home/zadmin/Documents/workspace/Ci-CD-example/utilities/cli/yargs/countEntriesInDirectory/lib/log.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
